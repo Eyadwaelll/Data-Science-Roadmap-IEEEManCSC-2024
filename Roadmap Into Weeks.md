@@ -165,6 +165,7 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
   Additional
 </summary>
   <a href="https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/EDA/EDA%20Notebook.ipynb">EDA Summary</a><br>
+  [sess](https://drive.google.com/drive/folders/1ax-8Fxzfq2XE3eqlvQZBrzHV-XUqrbXU)
 </details>
 <br><br>
 
